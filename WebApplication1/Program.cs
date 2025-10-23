@@ -4,7 +4,7 @@ namespace WebApplication1
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello feature!");
+            Console.WriteLine("Hello from feature!");
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
